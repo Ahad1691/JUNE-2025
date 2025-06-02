@@ -1,5 +1,4 @@
-DSTDE- 2/05/2025
-
+DATED - 02/06/2025
 
 #include <iostream>
 using namespace std ;
@@ -27,3 +26,7 @@ int main () {
     return 0;
 
 }
+
+
+
+POWER PROGRAM
