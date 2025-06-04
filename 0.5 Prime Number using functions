@@ -27,7 +27,7 @@ int main () {
     }
 
 
-// Prime number program using functions.
+
 
     else {
         cout << "is not a prime number" << endl;
