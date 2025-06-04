@@ -1,6 +1,5 @@
 DATED - 04/06/2025
 
-
 #include <iostream>
 using namespace std;
 
@@ -25,6 +24,10 @@ int main () {
         cout << " is a prime number " << endl;
 
     }
+
+
+// Prime number program using functions.
+
     else {
         cout << "is not a prime number" << endl;
         }
