@@ -1,0 +1,42 @@
+DATED - 06/05/2025
+
+
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    char ch;
+
+    for (int i = 0; i < 5; i++) {
+        cout << "\nEnter a character: ";
+        cin >> ch;
+
+        if (!isprint(ch)) {
+            cout << "Unrecognized character. Try again.\n";
+            continue;
+        }
+
+        switch (ch) {
+            case '+':
+            case '-':
+            case '*':
+            case '/':
+            case '%':
+                cout << ch << " is a mathematical operator." << endl;
+                break;
+
+            default:
+                if (isdigit(ch)) {
+                    cout << ch << " is a digit." << endl;
+                } else if (isalpha(ch)) {
+                    cout << ch << " is an alphabet." << endl;
+                } else {
+                    cout << ch << " is a special character." << endl;
+                }
+        }
+    }
+
+    return 0;
+}
