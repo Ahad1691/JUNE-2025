@@ -1,4 +1,6 @@
 DATED - 07/06/2025
+INTRODUCTION TO ARRAYS :
+
 
 #include <iostream>
 using namespace std;
@@ -24,5 +26,3 @@ int main() {
 }
 
 
-
-INTRODUCTION TO ARRAYS 
