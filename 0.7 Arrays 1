@@ -1,8 +1,8 @@
 DATED - 07/06/2025
 
-
 #include <iostream>
 using namespace std;
+
 
 int main() {
     int numbers[5];  
