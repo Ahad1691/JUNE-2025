@@ -1,5 +1,6 @@
 DATE - 08/06/2025
 
+
 #include <iostream>
 using namespace std;
 
@@ -26,4 +27,4 @@ int main() {
 }
 
 
-SMALLEST ELEMENT I AN ARRAY 
+SMALLEST ELEMENT IN AN ARRAY 
