@@ -1,7 +1,5 @@
 DATE - 08/06/2025
 
-
-
 #include <iostream>
 using namespace std;
 
@@ -26,3 +24,6 @@ int main() {
     cout << "Smallest element is: " << min << endl;
     return 0;
 }
+
+
+SMALLEST ELEMENT I AN ARRAY 
