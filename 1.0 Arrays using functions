@@ -33,3 +33,7 @@ int main () {
 
     printarray (third , 5 ) ;
 }
+
+
+
+USING USER DEFINED FUNCTIONS 
